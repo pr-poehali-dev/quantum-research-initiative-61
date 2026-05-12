@@ -78,9 +78,9 @@ export function ArtTypes() {
     <section className="py-24 px-6 bg-muted/30">
       <div className="max-w-7xl mx-auto">
         <div className="text-center mb-16">
-          <h2 className="font-serif text-4xl md:text-5xl mb-4 text-balance">Изучайте формы искусства</h2>
+          <h2 className="font-serif text-4xl md:text-5xl mb-4 text-balance">Техники участников выставки</h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto text-pretty">
-            Откройте для себя разнообразие техник и материалов, которые художники используют для выражения творческого видения
+            На выставке «Волга в красках» представлены работы в самых разных техниках и жанрах — каждый найдёт что-то близкое
           </p>
         </div>
 

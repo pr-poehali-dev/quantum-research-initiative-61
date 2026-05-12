@@ -4,9 +4,9 @@ export function Footer() {
       <div className="container mx-auto px-4 lg:px-8">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 lg:gap-12 mb-8">
           <div>
-            <h3 className="font-serif text-2xl font-light mb-4">Галерист</h3>
+            <h3 className="font-serif text-2xl font-light mb-4">Сарат Арт</h3>
             <p className="text-sm text-muted-foreground leading-relaxed">
-              Связываем выдающихся художников со взыскательными коллекционерами с 2020 года.
+              Ежегодная выставка «Волга в красках» — искусство Саратова и Поволжья для всех.
             </p>
           </div>
 
@@ -50,8 +50,8 @@ export function Footer() {
                 </a>
               </li>
               <li>
-                <a href="mailto:hello@galerist.art" className="hover:text-foreground transition-colors">
-                  hello@galerist.art
+                <a href="mailto:info@saratart.ru" className="hover:text-foreground transition-colors">
+                  info@saratart.ru
                 </a>
               </li>
             </ul>
@@ -59,7 +59,7 @@ export function Footer() {
         </div>
 
         <div className="pt-8 border-t border-border text-center text-sm text-muted-foreground">
-          <p>&copy; {new Date().getFullYear()} Галерист. Все права защищены.</p>
+          <p>&copy; {new Date().getFullYear()} Сарат Арт — Выставка «Волга в красках». Саратов.</p>
         </div>
       </div>
     </footer>
